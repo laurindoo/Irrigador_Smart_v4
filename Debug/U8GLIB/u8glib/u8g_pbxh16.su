@@ -1,0 +1,5 @@
+../U8GLIB/u8glib/u8g_pbxh16.c:61:6:u8g_pbxh16_Clear	8	static
+../U8GLIB/u8glib/u8g_pbxh16.c:78:6:u8g_pbxh16_Init	8	static
+../U8GLIB/u8glib/u8g_pbxh16.c:100:6:u8g_pbxh16_SetPixel	20	static
+../U8GLIB/u8glib/u8g_pbxh16.c:112:6:u8g_pbxh16_Set8Pixel	32	static
+../U8GLIB/u8glib/u8g_pbxh16.c:137:9:u8g_dev_pbxh16_base_fn	16	static

@@ -1,0 +1,9 @@
+../U8GLIB/Src/Display.c:39:9:Inicia_display	16	static
+../U8GLIB/Src/Display.c:266:6:Menu_bolas_display	32	static
+../U8GLIB/Src/Display.c:280:6:u8g_My_SetaFonte	8	static
+../U8GLIB/Src/Display.c:53:6:Draw_principal	32	static
+../U8GLIB/Src/Display.c:127:6:Draw_caixa_dialogo_aviso	48	static
+../U8GLIB/Src/Display.c:147:6:Tela_Menu_Raio	40	static
+../U8GLIB/Src/Display.c:174:6:Tela_Menu_braco	40	static
+../U8GLIB/Src/Display.c:201:6:Tela_Menu_Vel_troca	40	static
+../U8GLIB/Src/Display.c:229:6:Tela_Menu_Modo	40	static

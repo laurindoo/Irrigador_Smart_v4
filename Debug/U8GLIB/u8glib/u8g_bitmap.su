@@ -1,0 +1,6 @@
+../U8GLIB/u8glib/u8g_bitmap.c:39:6:u8g_DrawHBitmap	40	static
+../U8GLIB/u8glib/u8g_bitmap.c:50:6:u8g_DrawBitmap	40	static
+../U8GLIB/u8glib/u8g_bitmap.c:64:6:u8g_DrawHBitmapP	16	static
+../U8GLIB/u8glib/u8g_bitmap.c:75:6:u8g_DrawBitmapP	24	static
+../U8GLIB/u8glib/u8g_bitmap.c:116:6:u8g_DrawXBM	72	static
+../U8GLIB/u8glib/u8g_bitmap.c:161:6:u8g_DrawXBMP	24	static

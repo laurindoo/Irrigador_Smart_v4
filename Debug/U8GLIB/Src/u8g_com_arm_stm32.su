@@ -1,0 +1,5 @@
+../U8GLIB/Src/u8g_com_arm_stm32.c:17:6:u8g_Delay	8	static
+../U8GLIB/Src/u8g_com_arm_stm32.c:20:6:u8g_xMicroDelay	24	static
+../U8GLIB/Src/u8g_com_arm_stm32.c:32:6:u8g_MicroDelay	8	static
+../U8GLIB/Src/u8g_com_arm_stm32.c:35:6:u8g_10MicroDelay	8	static
+../U8GLIB/Src/u8g_com_arm_stm32.c:39:9:u8g_com_arm_stm32_ssd_i2c_fn	40	static
